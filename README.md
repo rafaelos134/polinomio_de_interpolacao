@@ -30,4 +30,10 @@ Portanto, o polinômio de menor grau que passa pelos pontos (-1, 15), (0, 8), (3
 
  <p align="center"> $p(x) = 8 - \frac{2735}{468} x + \frac{775}{702} x^2 - \frac{73}{1404}x^3$</P>
 
+<div align="center">
+    <img width="500 cm" title="titulo da imagem" src="https://github.com/rafaelos134/polinomio_de_interpolacao/assets/62451921/40081dc6-a05b-41eb-93b9-303d9ff4d6ab"/>
+</div>
+
+referencia: Rodrigo Fresneda. *Notas de Álgebra Linear v.18-abr-2023*. https://sites.google.com/ufabc.edu.br/fresneda/recursos, 2023.
+
 
